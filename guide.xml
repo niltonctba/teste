@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Globo RJ FHD">
+    <display-name lang="pt">Globo RJ FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180514000000 +0100" stop="20180514235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180515000000 +0100" stop="20180515235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180516000000 +0100" stop="20180516235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180517000000 +0100" stop="20180517235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180518000000 +0100" stop="20180518235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180519000000 +0100" stop="20180519235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180520000000 +0100" stop="20180520235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20180514120000 -0300" stop="20180514125000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180514125000 -0300" stop="20180514131500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180514131500 -0300" stop="20180514135500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180514135500 -0300" stop="20180514144000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Rumo à Copa - Convocação</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180514144000 -0300" stop="20180514163000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Sessão da Tarde</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180514163000 -0300" stop="20180514174500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Celebridade</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180514174500 -0300" stop="20180514182000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180514182000 -0300" stop="20180514191000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180514191000 -0300" stop="20180514193500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180514193500 -0300" stop="20180514203000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180514203000 -0300" stop="20180514212000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180514212000 -0300" stop="20180514224500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180514224500 -0300" stop="20180514231500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180514231500 -0300" stop="20180515005500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Tela Quente</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180515005500 -0300" stop="20180515013000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515013000 -0300" stop="20180515022000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180515022000 -0300" stop="20180515040000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180515040000 -0300" stop="20180515050000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Máquina Mortífera</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180515050000 -0300" stop="20180515060000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515060000 -0300" stop="20180515073000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Rio</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515073000 -0300" stop="20180515085000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515085000 -0300" stop="20180515101000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515101000 -0300" stop="20180515105000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180515105000 -0300" stop="20180515120000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180515120000 -0300" stop="20180515125000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515125000 -0300" stop="20180515132000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180515132000 -0300" stop="20180515140000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515140000 -0300" stop="20180515150500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180515150500 -0300" stop="20180515163000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vôlei Feminino - Ao Vivo</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20180515163000 -0300" stop="20180515175500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Celebridade</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180515175500 -0300" stop="20180515183000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180515183000 -0300" stop="20180515191000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180515191000 -0300" stop="20180515193000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515193000 -0300" stop="20180515203000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180515203000 -0300" stop="20180515212000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180515212000 -0300" stop="20180515223000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180515223000 -0300" stop="20180515231000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Mister Brau</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180515231000 -0300" stop="20180515235500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180515235500 -0300" stop="20180516003000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516003000 -0300" stop="20180516011500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180516011500 -0300" stop="20180516020000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180516020000 -0300" stop="20180516040000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180516040000 -0300" stop="20180516050000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Máquina Mortífera</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180516050000 -0300" stop="20180516060000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516060000 -0300" stop="20180516073000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Rio</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516073000 -0300" stop="20180516085000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516085000 -0300" stop="20180516101000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516101000 -0300" stop="20180516105000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180516105000 -0300" stop="20180516120000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180516120000 -0300" stop="20180516125000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516125000 -0300" stop="20180516132000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180516132000 -0300" stop="20180516140000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516140000 -0300" stop="20180516150500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180516150500 -0300" stop="20180516163000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vôlei Feminino - Ao Vivo</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20180516163000 -0300" stop="20180516175500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Celebridade</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180516175500 -0300" stop="20180516183000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180516183000 -0300" stop="20180516191000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180516191000 -0300" stop="20180516193000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516193000 -0300" stop="20180516201500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180516201500 -0300" stop="20180516205500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180516205500 -0300" stop="20180516214500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180516214500 -0300" stop="20180516234500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Futebol 2018</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180516234500 -0300" stop="20180517002500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Profissão Repórter</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517002500 -0300" stop="20180517010000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517010000 -0300" stop="20180517014500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180517014500 -0300" stop="20180517023000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180517023000 -0300" stop="20180517035500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180517035500 -0300" stop="20180517050000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Máquina Mortífera</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180517050000 -0300" stop="20180517060000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517060000 -0300" stop="20180517073000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Rio</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517073000 -0300" stop="20180517085000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517085000 -0300" stop="20180517101000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517101000 -0300" stop="20180517105000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180517105000 -0300" stop="20180517120000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180517120000 -0300" stop="20180517125000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517125000 -0300" stop="20180517132000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180517132000 -0300" stop="20180517140000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517140000 -0300" stop="20180517150500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180517150500 -0300" stop="20180517163000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vôlei Feminino - Ao Vivo</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20180517163000 -0300" stop="20180517175500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Celebridade</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180517175500 -0300" stop="20180517183000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180517183000 -0300" stop="20180517191500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180517191500 -0300" stop="20180517193500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517193500 -0300" stop="20180517203000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180517203000 -0300" stop="20180517212500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180517212500 -0300" stop="20180517223000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180517223000 -0300" stop="20180517231000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Carcereiros</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180517231000 -0300" stop="20180517235000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180517235000 -0300" stop="20180518003000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518003000 -0300" stop="20180518011500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180518011500 -0300" stop="20180518020000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180518020000 -0300" stop="20180518040000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180518040000 -0300" stop="20180518050000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Máquina Mortífera</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180518050000 -0300" stop="20180518060000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Hora Um</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518060000 -0300" stop="20180518073000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Rio</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518073000 -0300" stop="20180518085000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518085000 -0300" stop="20180518101000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Mais Você</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518101000 -0300" stop="20180518105000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Bem Estar</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20180518105000 -0300" stop="20180518120000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Debate</category>
+  </programme>
+  <programme start="20180518120000 -0300" stop="20180518125000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518125000 -0300" stop="20180518132000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180518132000 -0300" stop="20180518140000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518140000 -0300" stop="20180518151000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vídeo Show</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180518151000 -0300" stop="20180518165000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Sessão da Tarde</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180518165000 -0300" stop="20180518175500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Vale a Pena Ver de Novo: Celebridade</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180518175500 -0300" stop="20180518182500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Malhação: Vidas Brasileiras</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180518182500 -0300" stop="20180518191500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180518191500 -0300" stop="20180518193500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518193500 -0300" stop="20180518203000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180518203000 -0300" stop="20180518211500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180518211500 -0300" stop="20180518223000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Segundo Sol</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180518223000 -0300" stop="20180518232000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Repórter</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180518232000 -0300" stop="20180519000500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Onde Nascem os Fortes</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180519000500 -0300" stop="20180519004000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal da Globo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519004000 -0300" stop="20180519012500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Conversa com Bial</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20180519012500 -0300" stop="20180519021000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Ponto Cego</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180519021000 -0300" stop="20180519040500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180519040500 -0300" stop="20180519060000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180519060000 -0300" stop="20180519070000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Via Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519070000 -0300" stop="20180519090000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Como Será?</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20180519090000 -0300" stop="20180519120000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">É de Casa</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519120000 -0300" stop="20180519124600 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519124600 -0300" stop="20180519132000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180519132000 -0300" stop="20180519135900 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519135900 -0300" stop="20180519150800 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Sessão Comédia</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519150800 -0300" stop="20180519154800 -0300" channel="Globo RJ FHD">
+    <title lang="pt">As Matrioskas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180519154800 -0300" stop="20180519183000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Caldeirão do Huck</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180519183000 -0300" stop="20180519191400 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Orgulho e Paixão</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180519191400 -0300" stop="20180519193500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519193500 -0300" stop="20180519203000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Deus Salve o Rei</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180519203000 -0300" stop="20180519212000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180519212000 -0300" stop="20180519230100 -0300" channel="Globo RJ FHD">
+    <title lang="pt">O Outro Lado do Paraíso</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20180519230100 -0300" stop="20180519233700 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Zorra</title>
+    <category lang="pt">Variedades/Comédia</category>
+  </programme>
+  <programme start="20180519233700 -0300" stop="20180520012800 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Altas Horas</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520012800 -0300" stop="20180520014600 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Zero 1</title>
+    <category lang="pt">Variedades/Cultural</category>
+  </programme>
+  <programme start="20180520014600 -0300" stop="20180520034400 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Supercine</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180520034400 -0300" stop="20180520054600 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Corujão</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180520054600 -0300" stop="20180520064700 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20180520064700 -0300" stop="20180520071500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Comunidade</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520071500 -0300" stop="20180520075100 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Pequenas Empresas, Grandes Negócios</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180520075100 -0300" stop="20180520083900 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Globo Rural</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20180520083900 -0300" stop="20180520090000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Auto Esporte</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180520090000 -0300" stop="20180520101000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Esporte Espetacular</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180520101000 -0300" stop="20180520120000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Fórmula 1</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20180520120000 -0300" stop="20180520124500 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Esporte Espetacular</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20180520124500 -0300" stop="20180520140600 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Tamanho Família</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520140600 -0300" stop="20180520160000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Temperatura Máxima</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20180520160000 -0300" stop="20180520180000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Futebol 2018</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20180520180000 -0300" stop="20180520210000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Domingão do Faustão</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520210000 -0300" stop="20180520232000 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Fantástico</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180520232000 -0300" stop="20180521011200 -0300" channel="Globo RJ FHD">
+    <title lang="pt">Domingo Maior</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+</tv>
